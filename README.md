@@ -80,6 +80,7 @@ The project follows a standard machine learning workflow tailored for an imbalan
     ```
 
 ## File Structure
+CreditCard/
 ├── creditcard.csv          # The dataset file
 ├── model.py                # Contains the PyTorch model classes
 ├── train.py                # Script to train the model and save results
