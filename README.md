@@ -78,8 +78,9 @@ The project follows a standard machine learning workflow tailored for an imbalan
     # Generate the evaluation plots
     python evaluate.py
     ```
-
+```
 ## File Structure
+```
 CreditCard/
 ├── creditcard.csv          # The dataset file
 ├── model.py                # Contains the PyTorch model classes
