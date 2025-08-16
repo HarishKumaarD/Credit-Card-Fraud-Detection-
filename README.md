@@ -28,13 +28,16 @@ The model was trained on the imbalanced Kaggle dataset and achieved the followin
 *(Here you would insert the images of your plots after uploading them to your GitHub repo)*
 
 **Confusion Matrix (at Optimal Threshold)**
-![Confusion Matrix](./image_e9e4ce.png)
+![Confusion Matrix]<img width="747" height="625" alt="image" src="https://github.com/user-attachments/assets/43fa94c9-875c-4573-a160-f173e4f5103e" />
+
 
 **Precision-Recall Curve**
-![Precision-Recall Curve](./image_e9e52b.png)
+![Precision-Recall Curve]<img width="995" height="748" alt="image" src="https://github.com/user-attachments/assets/31053cc2-2951-458c-9708-7cf4a23d4c09" />
+
 
 **ROC Curve**
-![ROC Curve](./image_e9d20c.png)
+![ROC Curve]<img width="1001" height="750" alt="image" src="https://github.com/user-attachments/assets/707abd82-69ee-44f9-b47f-31c89c646539" />
+
 
 ## Methodology
 The project follows a standard machine learning workflow tailored for an imbalanced classification problem:
