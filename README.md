@@ -78,7 +78,7 @@ The project follows a standard machine learning workflow tailored for an imbalan
     # Generate the evaluation plots
     python evaluate.py
     ```
-```
+
 ## File Structure
 ```
 CreditCard/
@@ -88,6 +88,7 @@ CreditCard/
 ├── evaluate.py             # Script to load results and generate plots
 ├── requirements.txt        # Required Python libraries
 └── README.md               # This file
+```
 
 
 ## Technologies Used
